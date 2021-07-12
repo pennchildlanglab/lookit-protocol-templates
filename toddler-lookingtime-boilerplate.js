@@ -169,7 +169,6 @@ function generateProtocol(child, pastSessions) {
                     "text": "If you'd like to see the materials your toddler will be shown, you can take a look ahead of time now. It's important that you preview them without your toddler, so that the materials will still be new to them."
                 }
             ],
-            "showPreviousButton": true,
             //Replace the URL below with the URL of your actual directory
             "baseDir": "https://raw.githubusercontent.com/kimberscott/placeholder-stimuli/master/",
             "videoTypes": ["webm", "mp4"],
