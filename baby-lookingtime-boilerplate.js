@@ -147,7 +147,8 @@ function generateProtocol(child, pastSessions) {
                 }
             ],
             "showWebcam": false,
-            "nextButtonText": "Next"
+            "nextButtonText": "Next", 
+            "showPreviousButton": false
         },
         "preview": {
             "kind": "exp-lookit-stimuli-preview",
