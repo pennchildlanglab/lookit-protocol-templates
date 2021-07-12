@@ -155,6 +155,7 @@ function generateProtocol(child, pastSessions) {
             "doRecording": true,
             "skipButtonText": "Skip preview",
             "previewButtonText": "I'd like to preview the section",
+            "showPreviousButton": false,
             "blocks": [
                 {
                     //Edit [DESCRIPTION] below
