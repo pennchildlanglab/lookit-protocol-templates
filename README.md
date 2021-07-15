@@ -7,4 +7,6 @@ These templates contain frames such as initial instructions or setting up video 
 * **toddler-lookingtime-boilerplate.js:** for toddler looking time studies
 * **schoolage-kids-boiletplate.js:** for school-age kid studies
 
+For more details on how to use these templates and a preview of how each of them would look on Lookit, please see the [lab wiki](https://wiki.childlanglab.com/protocols/lookit-templates). 
+
 If you spot a problem with any of the current templates or would like to request a new template, please create a new issue on Github!
